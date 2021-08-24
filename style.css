@@ -9,7 +9,7 @@
 body {
     font-family: 'Fira Sans', sans-serif;
     margin: auto;
-    background-image: url('minions.jpg');
+    background-image: url('ferlatin.jpg');
 }
 /* list item inline */
 .list-item-inline {
@@ -42,7 +42,6 @@ br {
     display: block;
     margin: auto;
     background-color: yellow;
-    color: black solid;
     height: 2rem;
     width: 6rem;
     font-size: large;
