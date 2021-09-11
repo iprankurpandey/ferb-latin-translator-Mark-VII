@@ -5,4 +5,4 @@ This project is part of NeoGCamp Mark-VII assesment . this is a small ferb latin
 ## tech stack
 
 The project is developed using HTML5,CSS3 and JS and It is hosted on netlify.
-API credit : www.funtranslation.com
+API credit : www.funtranslations.com
